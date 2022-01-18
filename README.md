@@ -72,5 +72,5 @@
 
 </br>
 
-### 6. Any challenge from Miscellaneous
+### 6. Miscellaneous
   Solve any challenge from Miscellaneous category. 
